@@ -1,0 +1,1 @@
+(self.webpackChunkanimal_home_beta=self.webpackChunkanimal_home_beta||[]).push([[1847],{81150:function(e){e.exports=Object.is||function(e,t){return e===t?0!==e||1/e==1/t:e!=e&&t!=t}},43304:function(e,t,n){n(82109)({target:"Object",stat:!0},{is:n(81150)})}}]);
